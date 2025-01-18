@@ -2,7 +2,7 @@
 
 ## about
 
-GpluginLoader is a plugin loader for the Git distributed version controller that allows users to customize additional features of the Git distributed version controller by writing Git plugin source files in C/C++.
+GpluginLoader means git plugin loader,is a plugin loader for the Git distributed version controller that allows users to customize additional features of the Git distributed version controller by writing Git plugin source files in C/C++.
 The project is divided into two parts, Git itself (with some modifications to have an exposed API) and the loader.
 
 ## config
