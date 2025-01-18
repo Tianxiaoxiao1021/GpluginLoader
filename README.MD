@@ -7,7 +7,6 @@ GpluginLoader means git plugin loader,is a plugin loader for the Git distributed
 ## config
 
 1.Write your plugin code and place it in a folder.
-
 2.
 Type in command line: loader -git="path/to/git.exe" -plugin=path/to/pluginFolder" -mode=load/unload/enable/disable
 This will configure the Git controller's plugin path to be path/to/pluginFolder and load plugin in it.
